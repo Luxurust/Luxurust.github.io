@@ -1,0 +1,16 @@
+body {
+    background-image:url(IMG/perromamado.jpeg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+h1 {
+    color: hsl(0, 13%, 91%);
+}
+
+p {
+    color: #1e0ced;
+}
